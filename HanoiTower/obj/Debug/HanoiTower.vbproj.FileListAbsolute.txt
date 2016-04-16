@@ -7,3 +7,12 @@ D:\4_PROJECTS\HanoiTower\HanoiTower\HanoiTower\obj\Debug\HanoiTower.vbproj.Gener
 D:\4_PROJECTS\HanoiTower\HanoiTower\HanoiTower\obj\Debug\HanoiTower.dll
 D:\4_PROJECTS\HanoiTower\HanoiTower\HanoiTower\obj\Debug\HanoiTower.xml
 D:\4_PROJECTS\HanoiTower\HanoiTower\HanoiTower\obj\Debug\HanoiTower.pdb
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\bin\HanoiTower.dll.config
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\bin\HanoiTower.dll
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\bin\HanoiTower.pdb
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\bin\HanoiTower.xml
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\obj\Debug\HanoiTower.Resources.resources
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\obj\Debug\HanoiTower.vbproj.GenerateResource.Cache
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\obj\Debug\HanoiTower.dll
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\obj\Debug\HanoiTower.xml
+D:\4_PROJECTS\TowerOfHanoi\HanoiTower\obj\Debug\HanoiTower.pdb

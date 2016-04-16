@@ -83,12 +83,15 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="js\app\disk.js" />
+    <Content Include="js\app\tower.js" />
     <Content Include="content\app.css" />
     <Content Include="index.html" />
-    <Content Include="js\fabric.js" />
-    <Content Include="app\index.js" />
-    <Content Include="js\jquery-1.12.2.min.js" />
-    <Content Include="app\main.js" />
+    <Content Include="js\lib\fabric.js" />
+    <Content Include="js\app.js" />
+    <Content Include="js\lib\jquery-1.12.2.min.js" />
+    <Content Include="js\app\towerOfHanoi.js" />
+    <Content Include="js\require.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
